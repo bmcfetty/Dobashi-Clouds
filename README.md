@@ -4,7 +4,7 @@ It is an implementation of the paper "A Simple, Efficient Method for Realistic A
 
 It requires OpenGL and glut to compile.
 
-So far only sections 4.1 Growth Simultation, 4.2 Cloud Extinction, 4.5 Controlling Cloud Motion Using Ellipsoids have been implemented. With 4.4 Fast Simulation Using Bit Field Manipulation Functions Partially Implemented.
+So far only sections 4.1 Growth Simultation, 4.2 Cloud Extinction, 4.5 Controlling Cloud Motion Using Ellipsoids have been implemented. With 4.4 Fast Simulation Using Bit Field Manipulation Functions partially implemented.
 
 There are controls implemented:
 	p pauses the animation
